@@ -17,5 +17,6 @@ Runs a bunch of dig commands in succession to check for:
 
 ## Usage:
 
--d <DOMAIN> 
+./dig-dyn.sh -d example.co.uk 
+
 
