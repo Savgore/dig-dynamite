@@ -19,4 +19,4 @@ Runs a bunch of dig commands in succession to check for:
 
 ./dig-dyn.sh -d example.co.uk 
 
-
+<img src="dig-dynamite.png" alt="logo-unimportant" width="200"/>
